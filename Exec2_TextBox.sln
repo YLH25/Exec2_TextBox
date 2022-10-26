@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec2_TextBox", "Exec2_TextBox\Exec2_TextBox.csproj", "{6D05D5D9-E555-4DBB-98B7-66AB64CC5101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec2_TextBoxPart2", "Exec2_TextBoxPart2\Exec2_TextBoxPart2.csproj", "{2934391E-DE2F-4ADD-BF47-444EBAD79A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D05D5D9-E555-4DBB-98B7-66AB64CC5101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D05D5D9-E555-4DBB-98B7-66AB64CC5101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D05D5D9-E555-4DBB-98B7-66AB64CC5101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D05D5D9-E555-4DBB-98B7-66AB64CC5101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2934391E-DE2F-4ADD-BF47-444EBAD79A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2934391E-DE2F-4ADD-BF47-444EBAD79A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2934391E-DE2F-4ADD-BF47-444EBAD79A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2934391E-DE2F-4ADD-BF47-444EBAD79A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07BF2F71-B5F0-4D57-B3DB-38444CB58AE5}
+	EndGlobalSection
+EndGlobal
